@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://reynolds22.github.io/change-color",
+  "homepage": "https://reynolds22.github.io/change-color/",
   "eslintConfig": {
     "extends": [
       "react-app",
